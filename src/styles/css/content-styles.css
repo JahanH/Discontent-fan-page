@@ -1,0 +1,28 @@
+.contentPage {
+  position: relative;
+}
+.contentPage .pageHeader {
+  color: black;
+  margin: 0 0 20px 0;
+}
+.contentPage .pageContainer {
+  padding: 20px;
+  margin-left: 251px;
+  min-height: 1010px;
+}
+.contentPage .pageContainer p {
+  max-width: 950px;
+  margin: 0 0 20px 0;
+}
+.contentPage #products {
+  background-image: linear-gradient(to bottom, #83cef1, white);
+}
+.contentPage #events {
+  background-image: linear-gradient(to bottom, #dd91e9, white);
+}
+.contentPage #careers {
+  background-image: linear-gradient(to bottom, #f5bf68, white);
+}
+.contentPage #contact-us {
+  background-image: linear-gradient(to bottom, #dff37b, white);
+}

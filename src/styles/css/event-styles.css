@@ -1,0 +1,28 @@
+.eventRow {
+  padding: 0;
+  margin: 20px 0;
+}
+.eventRow .eventBanner {
+  display: inline-block;
+  vertical-align: top;
+}
+.eventRow .eventBanner img {
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 15px;
+  max-height: 600px;
+  max-width: 600px;
+}
+.eventRow .eventInfo {
+  width: 600px;
+  background-color: white;
+  border: 1px solid blueviolet;
+  border-radius: 20px;
+  padding: 15px;
+  margin: 0 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+.eventRow .eventInfo p {
+  font-size: 25px;
+}

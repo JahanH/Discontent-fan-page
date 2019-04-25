@@ -1,0 +1,26 @@
+.header {
+  height: 189px;
+  position: relative;
+  background-image: linear-gradient(to right, #0b029d, #2e7ef3);
+  padding-top: 5px;
+}
+.header h1 {
+  text-align: right;
+  float: right;
+  font-size: 3.5rem;
+  padding: 0 20px;
+  margin: 5px 0 0 0;
+  color: white;
+}
+.header .navBar {
+  margin: 125px 0 0 255px;
+}
+.header .navBar a {
+  font-family: papyrus;
+  font-size: 2rem;
+  color: black;
+  text-decoration: none;
+  border: 2px solid white;
+  border-radius: 20px 20px 0 0;
+  padding: 10px 20px;
+}

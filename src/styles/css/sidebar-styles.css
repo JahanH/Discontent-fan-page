@@ -1,0 +1,39 @@
+.sidebar {
+  position: absolute;
+  background-image: linear-gradient(#f76d19, #fbc322);
+  width: 253px;
+  height: 1200px;
+  padding: 20px 15px;
+  border-radius: 0 20px 20px 0;
+  border: 2px solid white;
+  float: left;
+  z-index: 100;
+}
+.sidebar img {
+  width: 220px;
+  border: 2px solid white;
+}
+.sidebar .content-pane {
+  width: 220px;
+  margin-top: 10px;
+  padding: 5px;
+  border: 2px solid white;
+}
+.sidebar .content-pane h4 {
+  margin: 0px;
+}
+.sidebar .content-pane p {
+  margin: 10px;
+}
+.sidebar .special-event h4 {
+  margin: 10px 0;
+}
+.sidebar .special-event p {
+  margin: 0;
+}
+#store-hours {
+  background-color: #61aff3;
+}
+#loc-contact {
+  background-color: #d06cee;
+}
